@@ -9,6 +9,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: learn new web technologies.
+![](https://komarev.com/ghpvc/?username=AissamYekhlef&color=green)
 
 
 <!-- 
