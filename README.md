@@ -10,6 +10,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: learn new web technologies.
 
+
+<!-- 
+
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 🐦 [facebook][facebook] **|** 
@@ -23,3 +26,5 @@
 [youtube]: https://www.youtube.com/results?search_query=mobidal&page=&utm_source=opensearch
 [instagram]: https://instagram.com/mobidaldotcom
 [linkedin]: https://linkedin.com/in/mobidal
+
+-->
