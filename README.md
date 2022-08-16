@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Laravel, VueJS
-- 🌱 I’m currently learning Vuejs
+- 🌱 I’m currently learning Vue3, Pinia, TypeScript, Nuxt3
 - 👯 I’m looking to collaborate on create laravel projects (APIs, ...)
 - 🤔 I’m looking for help with new laravel options
 - 💬 Ask me about php, Laravel
